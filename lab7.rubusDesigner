@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document
+    version="2010-08-01"
+    Model="PROJECT"
+    >
+    <Project
+        Configuration="System"
+        ActivePlatform="RubusRTE-1.0"
+        DirectoryInclude="" 
+        DirectoryOutput="obj" 
+        DirectorySource="obj" 
+        ExtensionsToCompile="*.rubusModel" 
+        ExtensionsToDelete="*.obj;*.tmp;*.iml;*.out;*.rubusReference" 
+        Name="Unnamed"
+        SCCConnect="" 
+        SCCPath="" 
+        SCCProject="" 
+        XMLCompilerDefine="" 
+        XMLCompilerInclude="" 
+        XMLCompilerNoLogo="1" 
+        XMLCompilerNoOutput="0" 
+        XMLCompilerOutput="" 
+        XMLCompilerProgress="0" 
+        XMLCompilerSilent="0" 
+        XMLCompilerVerbose="0" 
+        XMLLauncherInput="obj\$(ProjectName).iml" 
+        XMLLauncherNoLogo="1" 
+        XMLLauncherNoOutput="0" 
+        XMLLauncherObject="" 
+        XMLLauncherOutput="obj\$(ProjectName).out" 
+        XMLLauncherProgress="1" 
+        XMLLauncherReport="Default" 
+        XMLLauncherSilent="0" 
+        XMLLauncherVerbose="0" 
+        XMLLibNoLogo="1" 
+        XMLLibNoOutput="0" 
+        XMLLibProgress="0" 
+        XMLLibSilent="0" 
+        XMLLibVerbose="0" 
+        XMLLibOutput="obj\$(ProjectName).lib" 
+        XMLLinkerDefine="" 
+        XMLLinkerLibraryPath=""
+        XMLLinkerLibrary=""
+        XMLLinkerNoLogo="1" 
+        XMLLinkerNoOutput="0" 
+        XMLLinkerObject="" 
+        XMLLinkerOutput="obj\$(ProjectName).iml" 
+        XMLLinkerProgress="0"
+        XMLLinkerSilent="0"
+        XMLLinkerVerbose="0"
+        >
+        <Folder
+            Name="Libraries"
+            >
+            <File
+				Path="rubusOSResources.rubusLibrary"
+                >
+            </File>
+        </Folder>
+        <Folder
+            Name="Header Files"
+            >
+        </Folder>
+        <Folder
+            Name="Source Files"
+            >
+        </Folder>
+        <Folder
+            Name="Model Files"
+            >
+        </Folder>
+    </Project>
+</document>
