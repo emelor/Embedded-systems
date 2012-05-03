@@ -1,7 +1,65 @@
 <?xml version="1.0" encoding="utf-8"?>
-<document
-	ActivePlatform="RubusRTE-1.0" 
-    version="2010-08-01"
-    Model="CONFIGURATOR"
-    >
-</document>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1 Strict//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<style>
+<!--
+body {
+  font-size:70%;
+  font-family:verdana, arial, sans-serif;
+}
+
+p {
+  margin-top:0.6em;
+  margin-bottom:0.6em
+}
+
+table {
+  font-size:100%;
+  margin-top:1.0em;
+  margin-bottom:1.0em
+}
+
+h1 {
+  font-size:145%;
+  margin-top:1.2em;
+  margin-bottom:.5em;
+}
+
+h2 {
+  font-size:125%;
+  margin-top:1.2em;
+  margin-bottom:0.5em;
+}
+
+h3 {
+  font-size:110%;
+  margin-top:1.2em;
+  margin-bottom:0.5em;
+}
+-->
+</style>
+
+</head>
+<body>
+<h1>Output</h1>
+<h3>File Created</h3>
+<p>2012-05-03T16:23:32</p>
+<table border="0" width="100%" bgcolor="#DDDDFF">
+  <tr>
+    <td><b>Log data</b></td>
+  </tr>
+</table>
+<p><tt>Build started at 2012-05-03 16:21:37...<br>
+Compiling 'blinkenlights.rubusModel'...<br>
+Linking together model data to object file 'trial2.iml'...<br>
+Performing model validation, analysis and synthesis...<br>
+¿C:\Documents and Settings\emeliehe\My Documents\tmp\reports\Validate.xml¦Validate¦Configurator Target model validator for RubusRTE-1.0 platform<br>
+¿C:\Documents and Settings\emeliehe\My Documents\tmp\reports\Generic.xml¦Generic¦Generic Configurator Target code generator for RubusRTE-1.0 platform<br>
+---------------------- Done ----------------------<br>
+Build: 3 succeeded, 0 failed, 0 skipped<br>
+Completed at 00 minutes and 01.375 seconds...<br>
+</tt></p><b>*** End of output ***</b>
+</body>
+</html>

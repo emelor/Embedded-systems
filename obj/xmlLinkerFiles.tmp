@@ -2,4 +2,4 @@
 # Linker input object file(s) for project 'trial2.rubusDesigner'
 #
 
-"obj\trial2Model.obj"
+"obj\blinkenlights.obj"

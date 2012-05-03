@@ -29,7 +29,7 @@
 		XMLLauncherInput="obj\$(ProjectName).iml" 
 		XMLLauncherNoLogo="1" 
 		XMLLauncherNoOutput="0" 
-		XMLLauncherObject="genericNode\mcf5213" 
+		XMLLauncherObject="genericNode\mcf5213Target" 
 		XMLLauncherOutput="obj\$(ProjectName).out" 
 		XMLLauncherProgress="1" 
 		XMLLauncherReport="Default" 
@@ -60,8 +60,8 @@
 			>
 			<File 
 				Exclude="0" 
-				Path=".\trial2Model.rubusModel" 
-				UUID="3aab9058-3abe-494c-8a72-da8af46ba50d" 
+				Path="..\lab7\blinkenlights.rubusModel" 
+				UUID="568baeea-595e-44fb-b41e-b569b56873c0" 
 				>
 			</File>
 		</Folder>
